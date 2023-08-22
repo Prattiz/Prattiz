@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there, I'm Thiago 👋
 
-<!--
-**Prattiz/Prattiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a web Developer
 
-Here are some ideas to get you started:
+### Current Stack -->
+- Main Language - `JavaScript`
+- Front-End - `React.Js`, `HTML5` `CSS3`
+- Back-End - `Node.Js`
+- Layout/Design - `Figma`
+- Code Control - `Git / Git-Hub`
+- Tools - `VsCode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts -->
+- Email - prattithiago5@gmail.com
+- Linkedin - [My Linkedin](https://www.linkedin.com/in/thiago-pratti-de-mendon%C3%A7a-716b49267)
+
+
+
