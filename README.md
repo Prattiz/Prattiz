@@ -12,7 +12,7 @@
 
 ### Contacts -->
 - Email - prattithiago5@gmail.com
-- Linkedin - [My Linkedin](https://www.linkedin.com/in/thiago-pratti-de-mendon%C3%A7a-716b49267)
+- Linkedin - https://www.linkedin.com/in/thiago-pratti-de-mendon%C3%A7a-716b49267
 
 
 
