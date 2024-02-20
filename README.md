@@ -4,7 +4,7 @@
 
 ### ✅ Current Stack -->
 - 🚀 Main Languages - `JavaScript` `Java`
-- ✨ Front-End - `React.Js` `React Native` `HTML5` `CSS3`
+- ✨ Front-End - `React.Js` `React Native`
 - ⚡️ Back-End - `Node.Js`  `Spring Boot`
 - 🎨 Layout/Design - `Figma`
 - 📌 Code Control - `Git / Git-Hub`
