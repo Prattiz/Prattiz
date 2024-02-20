@@ -3,9 +3,9 @@
 #### I'm a web Developer
 
 ### ✅ Current Stack -->
-- 🚀 Main Language - `JavaScript`
+- 🚀 Main Languages - `JavaScript` `Java`
 - ✨ Front-End - `React.Js` `React Native` `HTML5` `CSS3`
-- ⚡️ Back-End - `Node.Js`  `Java`  `Spring Boot`
+- ⚡️ Back-End - `Node.Js`  `Spring Boot`
 - 🎨 Layout/Design - `Figma`
 - 📌 Code Control - `Git / Git-Hub`
 - 🔨 Tools - `VsCode`
