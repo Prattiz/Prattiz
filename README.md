@@ -17,7 +17,7 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prattiz&layout=compact&langs_count=7&theme=merko"/>
 </div><br>         
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,docker,androidstudio,spring,java,tailwind,styledcomponents,html,css,js,ts,react,jest,nestjs,nodejs,vite,python,dotnet,cs,npm,vscode,figma,aws,github,mysql,postgres,notion,sqlite&perline=16" />
+<img src="https://skillicons.dev/icons?i=git,docker,spring,java,styledcomponents,html,css,js,ts,react,nestjs,nodejs,vite,python,cs,npm,vscode,figma,github,mysql,postgres,notion,sqlite&perline=16" />
  </p>
 
 </div>
