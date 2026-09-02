@@ -12,10 +12,11 @@
 
 ###
   
-<div>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Prattiz&show_icons=true&theme=merko"/>  
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prattiz&layout=compact&langs_count=7&theme=merko"/>
-</div><br>         
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=prattiz&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prattiz&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+ 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,docker,spring,java,styledcomponents,html,css,js,ts,react,nestjs,nodejs,vite,python,cs,npm,vscode,figma,github,mysql,postgres,notion,sqlite&perline=16" />
  </p>
