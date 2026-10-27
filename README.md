@@ -11,11 +11,9 @@
 [![contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/thiago-pratti-de-mendonca)
 
 ###
-  
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=prattiz&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prattiz&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=prattiz&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=prattiz&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true)
  
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,docker,spring,java,styledcomponents,html,css,js,ts,react,nestjs,nodejs,vite,python,cs,npm,vscode,figma,github,mysql,postgres,notion,sqlite&perline=16" />
